@@ -35,7 +35,9 @@ Example Format for doaa.txt
 Each line in doaa.txt should contain an Athkar or Doaa and its count in the following format:
 
   سبحانك اللهم وبحمدك، اللهم اغفر لي-3
+  
 اللهم إني أعوذ بك من العجز والكسل، والجبن والهرم والبخل ، وأعوذ بك من عذاب القبر ومن فتنة المحيا والممات-7
+
 اللهم لك الحمد كما ينبغي لجلال وجهك وعظيم سلطانك-5
 
 Athkar and Doaas are followed by a dash (-) and a number representing the recitation count.
